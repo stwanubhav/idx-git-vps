@@ -68,7 +68,7 @@ All setup is **fully automated** and runs inside your browser.
 Visit the official platform:
 
 ```
-https://idx.google.com/
+https://studio.firebase.google.com
 ```
 
 Login using your **Google Account**.
